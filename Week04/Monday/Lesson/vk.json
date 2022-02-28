@@ -1,0 +1,29 @@
+{
+    "response": {
+        "count": 5961880,
+        "items": [{
+            "first_name": "Сергей",
+            "id": 614079840,
+            "last_name": "Соколов",
+            "can_access_closed": false,
+            "is_closed": true,
+            "photo_50": "https://sun1-27.u...taioufdhafe=1"
+        },
+        {
+            "first_name": "Роман",
+            "id": 614752515,
+            "last_name": "Малышев",
+            "can_access_closed": true,
+            "is_closed": false,
+            "photo_50": "https://sun1-93.u...tdfag54fdafe=1"
+        },
+        {
+            "first_name": "Марина",
+            "id": 614079840,
+            "last_name": "Кашина",
+            "can_access_closed": true,
+            "is_closed": false,
+            "photo_50": "https://sun1-51.u...taiai5awhafe=1"
+        }]
+    }
+}
